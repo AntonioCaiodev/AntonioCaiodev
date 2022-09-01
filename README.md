@@ -5,4 +5,8 @@
 :computer: Estudo **DEV FULLSTACK** na **DIGITAL COLLEGE** </p>
 :black_nib: Sou **DESIGNER GRÁFICO** </p>
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/antoniocarlosdelimajunior27/"><img height="30" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-s%C3%ADmbolo.jpg"></a>
+<a href="https://www.behance.net/caioinked"><img height="30" src="https://www.vectorlogo.zone/logos/behance/behance-ar21.png"></a></p>
+
 
