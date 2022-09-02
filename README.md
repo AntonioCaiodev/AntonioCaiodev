@@ -19,5 +19,5 @@ e a experiência vem sendo muito positiva.</p>
 <p> Pretendo no decorrer do curso migrar de área, mas sempre buscando utilizar
 todas as skills que adquiri nesse minha jornada de designer.</p>
 
-<p> Quer coonhecer um pouco mais do meu trabalho? Visite meu perfil no 
+<p> Quer conhecer um pouco mais do meu trabalho? Visite meu perfil no 
  <a href="https://www.behance.net/caioinked">Behance</a>
