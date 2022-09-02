@@ -6,8 +6,18 @@
   
   # <p align='center'> <img alt="Earth Gif" src="https://64.media.tumblr.com/691d9ac13eb0afd8392a813ef4013527/tumblr_mnem8us7hb1r4mh0bo1_500.gifv" height="45" align="center"/>&nbsp;Olá, sejam todos bem-vindos!  <img alt="Earth Gif" src="https://64.media.tumblr.com/691d9ac13eb0afd8392a813ef4013527/tumblr_mnem8us7hb1r4mh0bo1_500.gifv" height="45" align="center"/>&nbsp;<br/>
 
-:computer: Estudando **DEV FULLSTACK** na **DIGITAL COLLEGE** </p>
-:black_nib: **DESIGNER GRÁFICO** </p>
+<p> Me chamo Antônio Carlos de Lima Junior, mas pode me chamar de Caio também!
+Tenho 33 anos, sou de Fortaleza - Ceará, sou casado e tenho uma filha de 10 anos.</p>
 
+<p> Sempre gostei de tecnologia e acabei me enveredando pelo design gráfico
+onde já atua por uns bons anos.</p>
 
+<p> Sou fascinado pela descoberta e por aprender novas habilidades, então decidi
+  iniciar um curso de <b>Formação Fullstack</b> <b>na Digital College</b>
+e a experiência vem sendo muito positiva.</p>
 
+<p> Pretendo no decorrer do curso migrar de área, mas sempre buscando utilizar
+todas as skills que adquiri nesse minha jornada de designer.</p>
+
+<p> Quer coonhecer um pouco mais do meu trabalho? Visite meu perfil no 
+ <a href="https://www.behance.net/caioinked">Behance</a>
