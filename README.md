@@ -23,4 +23,4 @@ todas as skills que adquiri nesse minha jornada de designer.</p>
  <a href="https://www.behance.net/caioinked">Behance</a>
 
 
-<img align="right" img alt="" width="480" height="480" src="https://giphy.com/J9Awrhlsb7919634sC"/>
+<img align="right" img alt="design" width="480" height="480" src="https://giphy.com/gifs/J9Awrhlsb7919634sC"/>
