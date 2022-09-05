@@ -9,8 +9,8 @@
 <p> • Me chamo Antônio Carlos de Lima Junior, mas pode me chamar de Caio também! </p>
 <p> • Tenho 33 anos, sou de Fortaleza - Ceará, sou casado e tenho uma filha de 10 anos.</p>
 <p> • Atualmente sou designer gráfico. </p>
-
-<p> Sou fascinado pela descoberta e por aprender novas habilidades, então decidi
+<p> • Cursando uma formação em <b>Desenvolvedor Fullstack<b> na <b>Digital College<b>.
+Sou fascinado pela descoberta e por aprender novas habilidades, então decidi
   iniciar um curso de <b>Formação Fullstack</b> <b>na Digital College</b>
 e a experiência vem sendo muito positiva.</p>
 
