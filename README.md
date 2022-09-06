@@ -13,4 +13,5 @@
  
 # <img alt="Earth Gif" src="https://64.media.tumblr.com/691d9ac13eb0afd8392a813ef4013527/tumblr_mnem8us7hb1r4mh0bo1_500.gifv" height="45" align="center"/>&nbsp;Design Skills
 
-[![Twitter Follow](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other/)
+•  [![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other/)</p>
+•  [![illustrator](https://aleen42.github.io/badges/src/illustrator.svg)](https://www.adobe.com/products/illustrator.html/)</p>
