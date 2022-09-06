@@ -8,12 +8,11 @@
   
 # <p> <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;Sejam todos bem-vindos!
 
-:black_circle: Me chamo Antônio Carlos de Lima Junior, mas pode me chamar de Caio também!<p>
-:black_circle: Tenho 33 anos, sou de Fortaleza - Ceará, sou casado e tenho uma filha de 10 anos<p>
-:black_circle: Atualmente sou designer gráfico<p>
-:black_circle: Cursando uma formação em <b>Dev Fullstack<b> na <b>Digital College<p>
-:black_circle: Viciado em aprender e descobrir novas habilidades<p>
-
+:large_blue_diamond: Me chamo Antônio Carlos de Lima Junior, ou <i><b>Caio<b></i>, se preferir!<p>
+:large_orange_diamond: Tenho 33 anos e sou de Fortaleza - Ceará<p>
+:large_blue_diamond: Designer gráfico <p>
+:large_orange_diamond: Cursando <i><b> Formação Fullstack<b></i> na <i><b>Digital College<p></i>
+:large_blue_diamond: Buscando novas habilidades e novas possibilidades
  
 # <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;Ferramentas
 
