@@ -1,7 +1,7 @@
 # Linus Benedict <i>Fucking</i> Torvalds é o nome da fera. </p>
 
 
-<a href='https://postimg.cc/68xn6qjJ'><img src='https://i.postimg.cc/nhCkkQqz/BANNER-ORIGEM.png' border='0' alt='BANNER-ORIGEM'/></a>
+<a href='https://postimg.cc/DS82JP8t'><img src='https://i.postimg.cc/fRvkPHZT/BANNER-ORIGEM.png' border='0' alt='BANNER-ORIGEM'/></a>
 
 
 Linus Benedict Torvalds nasceu em Helsinque, Finlândia em
@@ -11,7 +11,7 @@ computadores começou, dando seus primeiros passos escrevendo um
 clone do Pac-Man chamado Cool Man.
 
 
-<a href='https://postimg.cc/rRTQtjgc'><img src='https://i.postimg.cc/90RSKN74/BANNER-CARREIRA.png' border='0' alt='BANNER-CARREIRA'/></a>
+<a href='https://postimg.cc/zbMwNjH8'><img src='https://i.postimg.cc/0j5VpX8M/BANNER-CARREIRA.png' border='0' alt='BANNER-CARREIRA'/></a>
 
 
 Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
@@ -49,6 +49,8 @@ redor do mundo.
 
 
 
-
+<p align='center'>
+<a href='https://postimg.cc/XX7kCrkw'><img src='https://i.postimg.cc/Wp0WxrDf/BANNER-V-DEOS.png' alt='BANNER-V-DEOS'/></a>
 <a href='https://youtu.be/o8NPllzkFhE'><img src='https://i.postimg.cc/TwyktVd3/BANNER-TED.png' height="500px" width="273,84px" alt='BANNER-TED'/></a><a href='https://youtu.be/4XpnKHJAok8'><img src='https://i.postimg.cc/fLKBH5dm/BANNER-GOOGLE.png' height="500px" width="273,84px" alt='BANNER-GOOGLE'/></a><a href='https://youtu.be/WVTWCPoUt8w'><img src='https://i.postimg.cc/631Xvpyk/BANNER-CHM.png' height="500px" width="273,84px" alt='BANNER-CHM'/></a>
+
 
