@@ -5,3 +5,4 @@ Nascido na Finlândia e naturalizado estadunidense em 2010 </p>
 
 https://youtu.be/o8NPllzkFhE - ted 
 https://www.youtube.com/watch?v=4XpnKHJAok8 - google
+https://www.youtube.com/watch?v=WVTWCPoUt8w - computer history museusn
