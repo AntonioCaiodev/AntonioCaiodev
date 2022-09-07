@@ -1,8 +1,8 @@
 # Linus Benedict <i>Fucking</i> Torvalds é o nome da fera. </p>
-Nascido na Finlândia e naturalizado estadunidense em 2010 </p>
 
 
-Breve origem:
+<a href='https://postimg.cc/68xn6qjJ'><img src='https://i.postimg.cc/nhCkkQqz/BANNER-ORIGEM.png' border='0' alt='BANNER-ORIGEM'/></a>
+
 
 Linus Benedict Torvalds nasceu em Helsinque, Finlândia em
 28 de dezembro de 1969. Filho de jornalistas e neto do estatístico
@@ -11,7 +11,9 @@ computadores começou, dando seus primeiros passos escrevendo um
 clone do Pac-Man chamado Cool Man.
 
 
-A carreira:
+<a href='https://postimg.cc/rRTQtjgc'><img src='https://i.postimg.cc/90RSKN74/BANNER-CARREIRA.png' border='0' alt='BANNER-CARREIRA'/></a>
+
+
 Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
 em que Andy Tanenbaun apresentava ao público o sistema 
 operacional MINIX, um derivativo do Unix. Em 1990 inicia os estudos
