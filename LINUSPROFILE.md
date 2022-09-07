@@ -1,17 +1,25 @@
-# Linus Benedict <i>Fucking</i> Torvalds é o nome da fera. </p>
+<a href='https://postimg.cc/Xr9mHsDM'><img src='https://i.postimg.cc/wjrzBPXB/Linus-Torvalds-2012.webp' height="350px" width="235,16px" align="right" alt='Linus-Torvalds-2012'/> 
+- # Linus Benedict Torvalds
+- Helsinque,Finlândia
+- 53 anos
+- Engenheiro de Software
+- Criador do Linux e Git
+  
+<a href='https://postimg.cc/N9pJHVCt'><img src='https://i.postimg.cc/x8SWWVKX/BARRA-LINHA.png' border='0' alt='BARRA-LINHA'/></a>
+
 
 
 <a href='https://postimg.cc/DS82JP8t'><img src='https://i.postimg.cc/fRvkPHZT/BANNER-ORIGEM.png' border='0' alt='BANNER-ORIGEM'/></a>
 
 
-Linus Benedict Torvalds nasceu em Helsinque, Finlândia em
+<i>Linus Benedict Torvalds</i> nasceu em Helsinque, Finlândia em
 28 de dezembro de 1969. Filho de jornalistas e neto do estatístico
 Leo Törnqvist, foi com um Commodore VIC-20 que seu interesse por
 computadores começou, dando seus primeiros passos escrevendo um 
 clone do Pac-Man chamado Cool Man.
 
 
-<a href='https://postimg.cc/zbMwNjH8'><img src='https://i.postimg.cc/0j5VpX8M/BANNER-CARREIRA.png' border='0' alt='BANNER-CARREIRA'/></a>
+<a href='https://postimg.cc/N2QxpxV4'><img src='https://i.postimg.cc/SRMtQTfw/BANNER-CARREIRA.png' border='0' alt='BANNER-CARREIRA'/></a>
 
 
 Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
@@ -35,18 +43,6 @@ protótipos do Linux foram publicados ainda em 1991 e a versão
 Desde o primeiro dia de liberação do Linux para a comunidade, ele recebe ajuda dos 
 hackers do Minix e contribuição de milhares de desnvolvedores ao
 redor do mundo.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align='center'>
