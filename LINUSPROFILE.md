@@ -22,7 +22,7 @@ clone do Pac-Man chamado Cool Man.
 Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
 em que Andy Tanenbaun apresentava ao público o sistema 
 operacional MINIX, um derivativo do Unix. Em 1990 inicia os estudos
-em linguagem do programação C e em 1991, ao receber sua cópia MINIX
+em linguagem de programação C e em 1991, ao receber sua cópia MINIX
 começou a trabalhar naquilo que se tornaria o Linux.
 
 com 21 anos de idade e 5 anos de experiência com programação em C
