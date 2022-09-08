@@ -44,6 +44,8 @@ redor do mundo.
 
 <p align='center'>
 <a href='https://postimg.cc/XX7kCrkw'><img src='https://i.postimg.cc/Wp0WxrDf/BANNER-V-DEOS.png' alt='BANNER-V-DEOS'/></a>
+
+<p align='center'>
 <a href='https://youtu.be/o8NPllzkFhE'><img src='https://i.postimg.cc/TwyktVd3/BANNER-TED.png' height="500px" width="273,84px" alt='BANNER-TED'/></a><a href='https://youtu.be/4XpnKHJAok8'><img src='https://i.postimg.cc/fLKBH5dm/BANNER-GOOGLE.png' height="500px" width="273,84px" alt='BANNER-GOOGLE'/></a><a href='https://youtu.be/WVTWCPoUt8w'><img src='https://i.postimg.cc/631Xvpyk/BANNER-CHM.png' height="500px" width="273,84px" alt='BANNER-CHM'/></a>
 
 
