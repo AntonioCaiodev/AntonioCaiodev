@@ -16,7 +16,7 @@ computadores começou, dando seus primeiros passos escrevendo um
 clone do Pac-Man chamado Cool Man.
 
 
-<a href='https://postimg.cc/zLbdGgBk'><img src='https://i.postimg.cc/pdk3kQM3/BANNER-CARREIRA.png' alt='BANNER-CARREIRA'/></a>
+<br><a href='https://postimg.cc/zLbdGgBk'><img src='https://i.postimg.cc/pdk3kQM3/BANNER-CARREIRA.png' alt='BANNER-CARREIRA'/></a>
 
 
 Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
@@ -43,17 +43,18 @@ redor do mundo.
 
 
 <p align='center'>
-<a href='https://postimg.cc/5XtLxW05'><img src='https://i.postimg.cc/rw1JN82H/BANNER-V-DEOS.png' alt='BANNER-V-DEOS'/></a>
+<br><a href='https://postimg.cc/5XtLxW05'><img src='https://i.postimg.cc/rw1JN82H/BANNER-V-DEOS.png' alt='BANNER-V-DEOS'/></a>
 
 <p align='center'>
 <a href='https://youtu.be/o8NPllzkFhE'><img src='https://i.postimg.cc/TwyktVd3/BANNER-TED.png' height="500px" width="273,84px" alt='BANNER-TED'/></a><a href='https://youtu.be/4XpnKHJAok8'><img src='https://i.postimg.cc/fLKBH5dm/BANNER-GOOGLE.png' height="500px" width="273,84px" alt='BANNER-GOOGLE'/></a><a href='https://youtu.be/WVTWCPoUt8w'><img src='https://i.postimg.cc/631Xvpyk/BANNER-CHM.png' height="500px" width="273,84px" alt='BANNER-CHM'/></a>
 
 <p align='center'>
-<a href='https://postimg.cc/DSbsWdrm'><img src='https://i.postimg.cc/ht2052h8/BANNER-NOT-CIA.png' alt='BANNER-NOT-CIA'/></a>
+
+<br><a href='https://postimg.cc/DSbsWdrm'><img src='https://i.postimg.cc/ht2052h8/BANNER-NOT-CIA.png' alt='BANNER-NOT-CIA'/></a>
 
 <p align='center'>  
 <a href='https://tecnoblog.net/noticias/2022/06/28/o-linux-e-feito-em-c-mas-linus-torvalds-ja-fala-em-usar-a-linguagem-rust/' target='_blank'><img src='https://i.postimg.cc/FKZKDvwH/BANNER-TECNOBLOG.png' height="250px" width="250px" alt='BANNER-TECNOBLOG'/></a> 
 <a href='https://postimg.cc/yDFpXnLD'><img src='https://i.postimg.cc/fRF4srXf/SEPARAR.png' height="100px" width="100px" alt='SEPARAR'/></a>
 <a href='https://www.terra.com.br/byte/linux-519-linus-torvalds-usa-macbook-air-m2-para-lancar-a-nova-versao,ae9e79facfb1dbaf10dc455fdd086e4fd6zrpgex.html'><img src='https://i.postimg.cc/FR6NBHpN/BANNER-TERRA.png' height="250px" width="250px" alt='BANNER-TERRA'/></a>
 
-<br><br><br><br><br><br><br><br><a href='https://postimg.cc/rDg7WQnq'><img src='https://i.postimg.cc/rpLTBH5R/banner-linus.png' alt='banner-linus'/></a>
+<br><br><br><a href='https://postimg.cc/rDg7WQnq'><img src='https://i.postimg.cc/rpLTBH5R/banner-linus.png' alt='banner-linus'/></a>
