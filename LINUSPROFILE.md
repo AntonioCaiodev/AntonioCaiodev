@@ -48,4 +48,7 @@ redor do mundo.
 <p align='center'>
 <a href='https://youtu.be/o8NPllzkFhE'><img src='https://i.postimg.cc/TwyktVd3/BANNER-TED.png' height="500px" width="273,84px" alt='BANNER-TED'/></a><a href='https://youtu.be/4XpnKHJAok8'><img src='https://i.postimg.cc/fLKBH5dm/BANNER-GOOGLE.png' height="500px" width="273,84px" alt='BANNER-GOOGLE'/></a><a href='https://youtu.be/WVTWCPoUt8w'><img src='https://i.postimg.cc/631Xvpyk/BANNER-CHM.png' height="500px" width="273,84px" alt='BANNER-CHM'/></a>
 
+<p align='center'>
+<a href='https://postimg.cc/SXd8mzxT'><img src='https://i.postimg.cc/LXKVBtKp/BANNRE-NOT-CIA.png' alt='BANNRE-NOT-CIA'/></a>
 
+<br><br><br><br><br><br><br><br><a href='https://postimg.cc/rDg7WQnq'><img src='https://i.postimg.cc/rpLTBH5R/banner-linus.png' alt='banner-linus'/></a>
