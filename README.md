@@ -6,7 +6,7 @@
 <a href="https://www.behance.net/caioinked"><img height="30" src="https://www.vectorlogo.zone/logos/behance/behance-ar21.png"></a></p>
 
   
-# <p> <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;Sejam todos bem-vindos!
+# <p> <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;Bom dia, sejam todos bem-vindos! 
 
 :large_blue_diamond: Me chamo Antônio Carlos de Lima Junior, ou <i><b>Caio<b></i>, se preferir!<p>
 :large_orange_diamond: Tenho 33 anos e sou de Fortaleza - Ceará<p>
