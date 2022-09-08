@@ -6,7 +6,7 @@
 
 
 
-<a href='https://postimg.cc/MnhLRDgL'><img src='https://i.postimg.cc/VN6PxZgz/BANNER-ORIGEM.png' alt='BANNER-ORIGEM'/></a>
+<a href='https://postimg.cc/Z91tjm2J'><img src='https://i.postimg.cc/rmpVVF9R/BANNER-ORIGEM.png' alt='BANNER-ORIGEM'/></a>
 
 
 <i>Linus Benedict Torvalds</i> nasceu em Helsinque, Finlândia em
