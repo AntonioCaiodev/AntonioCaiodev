@@ -1,8 +1,8 @@
 <a href='https://postimg.cc/Xr9mHsDM'><img src='https://i.postimg.cc/wjrzBPXB/Linus-Torvalds-2012.webp' height="350px" width="235,16px" align="right" alt='Linus-Torvalds-2012'/> 
 
-<a href='https://postimages.org/'><img src='https://i.postimg.cc/vBzrdCjP/ROOT.png' height="302px" width="700px" align="left" alt='ROOT'/></a>
+<a href='https://postimages.org/'><img src='https://i.postimg.cc/g0D7Mcdj/BANNER-QUEM.png' height="302px" width="700px" align="left" alt='BANNER-QUEM'/></a>
   
-<a href='https://postimg.cc/N9pJHVCt'><img src='https://i.postimg.cc/x8SWWVKX/BARRA-LINHA.png' border='0' alt='BARRA-LINHA'/></a>
+<a href='https://postimg.cc/kDgNgCz1'><img src='https://i.postimg.cc/FFjTGsZ4/BARRA-LINHA.png' alt='BARRA-LINHA'/></a>
 
 
 
