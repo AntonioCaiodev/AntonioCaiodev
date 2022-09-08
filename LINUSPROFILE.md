@@ -52,6 +52,8 @@ redor do mundo.
 <a href='https://postimg.cc/SXd8mzxT'><img src='https://i.postimg.cc/LXKVBtKp/BANNRE-NOT-CIA.png' alt='BANNRE-NOT-CIA'/></a>
 
 <p align='center'>  
-<a href='https://tecnoblog.net/noticias/2022/06/28/o-linux-e-feito-em-c-mas-linus-torvalds-ja-fala-em-usar-a-linguagem-rust/' target='_blank'><img src='https://i.postimg.cc/FKZKDvwH/BANNER-TECNOBLOG.png' height="250px" width="250px" alt='BANNER-TECNOBLOG'/></a> <a href='https://www.terra.com.br/byte/linux-519-linus-torvalds-usa-macbook-air-m2-para-lancar-a-nova-versao,ae9e79facfb1dbaf10dc455fdd086e4fd6zrpgex.html'><img src='https://i.postimg.cc/FR6NBHpN/BANNER-TERRA.png' height="250px" width="250px" alt='BANNER-TERRA'/></a>
+<a href='https://tecnoblog.net/noticias/2022/06/28/o-linux-e-feito-em-c-mas-linus-torvalds-ja-fala-em-usar-a-linguagem-rust/' target='_blank'><img src='https://i.postimg.cc/FKZKDvwH/BANNER-TECNOBLOG.png' height="250px" width="250px" alt='BANNER-TECNOBLOG'/></a> 
+<a href='https://postimg.cc/yDFpXnLD'><img src='https://i.postimg.cc/fRF4srXf/SEPARAR.png' height="100px" width="100px" alt='SEPARAR'/></a>
+<a href='https://www.terra.com.br/byte/linux-519-linus-torvalds-usa-macbook-air-m2-para-lancar-a-nova-versao,ae9e79facfb1dbaf10dc455fdd086e4fd6zrpgex.html'><img src='https://i.postimg.cc/FR6NBHpN/BANNER-TERRA.png' height="250px" width="250px" alt='BANNER-TERRA'/></a>
 
 <br><br><br><br><br><br><br><br><a href='https://postimg.cc/rDg7WQnq'><img src='https://i.postimg.cc/rpLTBH5R/banner-linus.png' alt='banner-linus'/></a>
