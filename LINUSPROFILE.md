@@ -43,21 +43,41 @@ Desde o primeiro dia de liberação do Linux para a comunidade, ele recebe ajuda
 hackers do Minix e contribuição de milhares de desnvolvedores ao
 redor do mundo.<br><br>
 
+<a href='https://postimg.cc/K4PsDNYX' ><img src='https://i.postimg.cc/66gJwbJQ/BANNER-CONQUISTAS.png' alt='BANNER-CONQUISTAS'/></a>
+
+• Em 1998, ele recebeu o EFF Pioneer Award.
+
+• Em 1999, ele recebeu o título de "um dos 100 principais inovadores, com menos de 35 anos de idade, no mundo" pela MIT Technology Review TR100.
+
+• Em 2000, ele recebeu a Medalha Lovelace, conferida pela British Computer Society.
+
+• Em 2001, junto com Richard Stallman e Ken Sakamura, ele compartilhou o Prêmio Takeda de Bem-Estar Social / Econômico.
+
+• Em 2005, ele recebeu o Vollum Award do Reed College.
+
+• Em 2008, ele se tornou um membro do Hall of Fellows do Computer History Museum em Mountain View, Califórnia.
+
+• Em 2010, ele foi agraciado com o Prêmio C&C pela NEC Corporation.
+
+• Em 2012, ele foi incluído no Hall da Fama da Internet.
+
+• Em 2012, ele foi um dos ganhadores do Prêmio de Tecnologia do Milênio.<br><br>
+
 
 <p align='center'>
-<br><a href='https://postimg.cc/5XtLxW05'><img src='https://i.postimg.cc/rw1JN82H/BANNER-V-DEOS.png' alt='BANNER-V-DEOS'/></a>
+<a href='https://postimg.cc/cKWcCqQr'><img src='https://i.postimg.cc/fbtqHDyj/BANNER-PLAESTRAS.png' alt='BANNER-PLAESTRAS'/></a>
 
 <p align='center'>
 <a href='https://youtu.be/o8NPllzkFhE'><img src='https://i.postimg.cc/TwyktVd3/BANNER-TED.png' height="500px" width="273,84px" alt='BANNER-TED'/></a><a href='https://youtu.be/4XpnKHJAok8'><img src='https://i.postimg.cc/fLKBH5dm/BANNER-GOOGLE.png' height="500px" width="273,84px" alt='BANNER-GOOGLE'/></a><a href='https://youtu.be/WVTWCPoUt8w'><img src='https://i.postimg.cc/631Xvpyk/BANNER-CHM.png' height="500px" width="273,84px" alt='BANNER-CHM'/></a>
 
-<p align='center'>
 
-<br><a href='https://postimg.cc/DSbsWdrm'><img src='https://i.postimg.cc/ht2052h8/BANNER-NOT-CIA.png' alt='BANNER-NOT-CIA'/></a>
+
+<a href='https://postimg.cc/LnzYXJv3'><img src='https://i.postimg.cc/SNPWg8M3/BANNER-NOT-CIAS.png' alt='BANNER-NOT-CIAS'/></a>
 
 <p align='center'>  
 <a href='https://tecnoblog.net/noticias/2022/06/28/o-linux-e-feito-em-c-mas-linus-torvalds-ja-fala-em-usar-a-linguagem-rust/' target='_blank'><img src='https://i.postimg.cc/FKZKDvwH/BANNER-TECNOBLOG.png' height="250px" width="250px" alt='BANNER-TECNOBLOG'/></a> 
 <a href='https://postimg.cc/yDFpXnLD'><img src='https://i.postimg.cc/fRF4srXf/SEPARAR.png' height="100px" width="100px" alt='SEPARAR'/></a>
-<a href='https://www.terra.com.br/byte/linux-519-linus-torvalds-usa-macbook-air-m2-para-lancar-a-nova-versao,ae9e79facfb1dbaf10dc455fdd086e4fd6zrpgex.html'><img src='https://i.postimg.cc/FR6NBHpN/BANNER-TERRA.png' height="250px" width="250px" alt='BANNER-TERRA'/></a>
+<a href='https://www.terra.com.br/byte/linux-519-linus-torvalds-usa-macbook-air-m2-para-lancar-a-nova-versao,ae9e79facfb1dbaf10dc455fdd086e4fd6zrpgex.html'><img src='https://i.postimg.cc/FR6NBHpN/BANNER-TERRA.png' height="250px" width="250px" alt='BANNER-TERRA'/></a><br><br>
 
 <br><br><br><a href='https://postimg.cc/rDg7WQnq'><img src='https://i.postimg.cc/rpLTBH5R/banner-linus.png' alt='banner-linus'/></a>
 
