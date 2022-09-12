@@ -59,5 +59,3 @@ redor do mundo.
 
 <br><br><br><a href='https://postimg.cc/rDg7WQnq'><img src='https://i.postimg.cc/rpLTBH5R/banner-linus.png' alt='banner-linus'/></a>
 
-
-<a href='https://www.youtube.com/watch?v=UVgzw4ZckPU'><img src='https://i.postimg.cc/mDMB4ZFw/TESTE.jpg' alt='TESTE'/></a>
