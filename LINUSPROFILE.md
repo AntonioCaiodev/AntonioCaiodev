@@ -10,10 +10,12 @@
 
 
 <i>Linus Benedict Torvalds</i> nasceu em Helsinque, Finlândia em
-28 de dezembro de 1969. Filho de jornalistas e neto do estatístico
-Leo Törnqvist, foi com um Commodore VIC-20 que seu interesse por
+28 de dezembro de 1969. Filho de <i>Anna e Nils Torvalds</i>, ambos jornalistas e neto do estatístico
+<i>Leo Törnqvist</i>, foi com um Commodore VIC-20 que seu interesse por
 computadores começou, dando seus primeiros passos escrevendo um 
-clone do Pac-Man chamado Cool Man.<br><br>
+clone do Pac-Man chamado Cool Man. Fez parte do Exército finlandês e participou de um programa de treinamento 
+de onze meses para atender aos critérios obrigatórios de serviço militar da Finlândia, período no qual
+interrompeu seus estudos.<br><br>
 
 
 <a href='https://postimg.cc/NKf8T8Kx'><img src='https://i.postimg.cc/K8t06JFC/BANNER-CARREIRA.png'  alt='BANNER-CARREIRA'/></a>
