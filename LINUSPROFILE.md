@@ -79,5 +79,7 @@ redor do mundo.<br><br>
 <a href='https://postimg.cc/yDFpXnLD'><img src='https://i.postimg.cc/fRF4srXf/SEPARAR.png' height="100px" width="100px" alt='SEPARAR'/></a>
 <a href='https://www.terra.com.br/byte/linux-519-linus-torvalds-usa-macbook-air-m2-para-lancar-a-nova-versao,ae9e79facfb1dbaf10dc455fdd086e4fd6zrpgex.html'><img src='https://i.postimg.cc/FR6NBHpN/BANNER-TERRA.png' height="250px" width="250px" alt='BANNER-TERRA'/></a><br><br>
 
-<br><br><br><a href='https://postimg.cc/rDg7WQnq'><img src='https://i.postimg.cc/rpLTBH5R/banner-linus.png' alt='banner-linus'/></a>
+<a href='https://postimg.cc/kDgNgCz1'><img src='https://i.postimg.cc/FFjTGsZ4/BARRA-LINHA.png' alt='BARRA-LINHA'/></a>
+
+<br><br><br><a href='https://postimg.cc/Wd5MNDbf' ><img src='https://i.postimg.cc/d0Yn9rMv/BANNER-MEME.png'  alt='BANNER-MEME'/></a>
 
