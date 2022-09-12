@@ -6,20 +6,20 @@
 
 
 
-<a href='https://postimg.cc/Z91tjm2J'><img src='https://i.postimg.cc/rmpVVF9R/BANNER-ORIGEM.png' alt='BANNER-ORIGEM'/></a>
+<a href='https://postimg.cc/Rq4T4zv8'><img src='https://i.postimg.cc/c18k7s2s/BANNER-ORIGEM.png'  alt='BANNER-ORIGEM'/></a>
 
 
 <i>Linus Benedict Torvalds</i> nasceu em Helsinque, Finlândia em
 28 de dezembro de 1969. Filho de jornalistas e neto do estatístico
 Leo Törnqvist, foi com um Commodore VIC-20 que seu interesse por
 computadores começou, dando seus primeiros passos escrevendo um 
-clone do Pac-Man chamado Cool Man.
+clone do Pac-Man chamado Cool Man.<br><br>
 
 
-<br><a href='https://postimg.cc/zLbdGgBk'><img src='https://i.postimg.cc/pdk3kQM3/BANNER-CARREIRA.png' alt='BANNER-CARREIRA'/></a>
+<a href='https://postimg.cc/NKf8T8Kx'><img src='https://i.postimg.cc/K8t06JFC/BANNER-CARREIRA.png'  alt='BANNER-CARREIRA'/></a>
 
 
-Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
+  Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
 em que Andy Tanenbaun apresentava ao público o sistema 
 operacional MINIX, um derivativo do Unix. Em 1990 inicia os estudos
 em linguagem de programação C e em 1991, ao receber sua cópia MINIX
@@ -39,7 +39,7 @@ protótipos do Linux foram publicados ainda em 1991 e a versão
 
 Desde o primeiro dia de liberação do Linux para a comunidade, ele recebe ajuda dos 
 hackers do Minix e contribuição de milhares de desnvolvedores ao
-redor do mundo.
+redor do mundo.<br><br>
 
 
 <p align='center'>
