@@ -18,7 +18,7 @@ de onze meses para atender aos critérios obrigatórios de serviço militar da F
 interrompeu seus estudos.<br><br>
 
 
-<a href='https://postimg.cc/NKf8T8Kx'><img src='https://i.postimg.cc/K8t06JFC/BANNER-CARREIRA.png'  alt='BANNER-CARREIRA'/></a>
+<a href='https://postimg.cc/hzv7YRJY'><img src='https://i.postimg.cc/Ss77Jymm/BANNER-CARREIRA.png' alt='BANNER-CARREIRA'/></a>
 
 
   Em 1988 foi admitido na Universidade de Helsinque, no mesmo ano
