@@ -29,6 +29,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](
 https://api.whatsapp.com/send?phone=5585987386641&text=Ol%C3%A1%2C%20preciso%20de%20um%20%20designer!%20%3D)
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCaio27&show_icons=true&theme=highcontrast)
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCaio27&show_icons=true&theme=highcontrast)<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCaio&langs_count=8=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![pagina-2.png](https://i.postimg.cc/vH4xMrVj/pagina-2.png)](https://postimg.cc/ZCh5xyjF)
