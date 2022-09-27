@@ -22,12 +22,9 @@
 
 # <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;Onde me encontrar
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/caioinked-103660624787951/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoinked@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caioinked/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/caioinked)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](
-https://api.whatsapp.com/send?phone=5585987386641&text=Ol%C3%A1%2C%20preciso%20de%20um%20%20designer!%20%3D)
 [![Freecode](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/AntonioCaio27)
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCaio27&show_icons=true&theme=highcontrast)<p>
