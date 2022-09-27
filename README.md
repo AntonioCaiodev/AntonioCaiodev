@@ -31,4 +31,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCaio&langs_count=8=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![pagina-2.png](https://i.postimg.cc/vH4xMrVj/pagina-2.png)](https://postimg.cc/ZCh5xyjF)
