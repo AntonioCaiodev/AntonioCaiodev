@@ -1,19 +1,12 @@
+![banner](https://user-images.githubusercontent.com/112489109/192851468-d9332b97-38d3-476e-8b4d-6b925a42226a.png)
 
-[![BANNER-PROGRAMMING2.png](https://i.postimg.cc/rs45g5MK/BANNER-PROGRAMMING2.png)](https://postimg.cc/Wq2D1FDv)
 
+[![Freecode](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/AntonioCaio27)
 
-<a href="https://www.linkedin.com/in/antoniocarlosdelimajunior27/"><img height="30" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-s%C3%ADmbolo.jpg"></a>
-<a href="https://www.behance.net/caioinked"><img height="30" src="https://www.vectorlogo.zone/logos/behance/behance-ar21.png"></a></p>
+<p>Antonio Carlos de Lima Junior
+<p>33 anos
+<p>Fortaleza, Ceará - Brasil
 
-  
-# <p> <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;Sejam todos bem-vindos! 
-
-:large_blue_diamond: Me chamo Antônio Carlos de Lima Junior, ou <i><b>Caio<b></i>, se preferir!<p>
-:large_orange_diamond: Tenho 33 anos e sou de Fortaleza - Ceará<p>
-:large_blue_diamond: Designer gráfico <p>
-:large_orange_diamond: Cursando <i><b> Formação Fullstack<b></i> na <i><b>Digital College<p></i>
-:large_blue_diamond: Buscando novas habilidades e novas possibilidades
- 
 # <img alt="Design Gif" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif" height="45" align="center"/>&nbsp;Ferramentas
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
