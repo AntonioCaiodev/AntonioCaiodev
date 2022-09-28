@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/112489109/192851468-d9332b97-38d3-476e-8b4d-6b925a42226a.png)
 
 
-[![Freecode](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/AntonioCaio27)
+
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Antonio Carlos de Lima Junior 
 <p>Fortaleza, Ceará - Brasil
