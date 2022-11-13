@@ -34,7 +34,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/caioinked)
 [![Freecode](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/AntonioCaio27)
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCaio27&show_icons=true&theme=highcontrast)<p>
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCaiodev&show_icons=true&theme=highcontrast)<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCaio&langs_count=8=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
